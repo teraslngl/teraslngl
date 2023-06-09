@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teraslngl
 - 👀 I’m interested in satellite imagery
 - 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on Earth observation indusrty
+- 💞️ I’m looking to collaborate on Earth observation industry
 
 
 <!---
